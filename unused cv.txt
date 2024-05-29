@@ -1,0 +1,110 @@
+<div class="row">
+               <div class="col"><h3 class="mb-30 mt-20">Education</h3></div>
+               <div class="col"><h3 class="mb-30 mt-20">Experience</h3></div>
+           </div>
+           <div class="container-fluid">
+                <div class="row">
+                    <div class="">
+
+                        <!--Timeline-->
+                        <div class="timeline">
+                            <!--item 1-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0">Ph.D. Kassel Graduate School of Economic Behavior and Governance</h6>
+                                    <large class="text-muted">Dr. rer. pol.</large>
+                                    <large class="text-muted">2018-2024</large>
+                                    <p class="pt-15 mb-0">Kassel University, Kassel, Germany</p>
+                                </div>
+                            </div>
+
+
+                       <!--item 2-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0">M.Sc. Behavioral and Experimental Economics
+                                        <span class="text-muted"> </span> </h6>
+                                    <large class="text-muted">2015 - 2018</large>
+                                    <p class="pt-15 mb-0">Kassel University, Kassel, Germany</p>
+                                </div>
+                            </div>
+                            <!--item 3-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0">B.Sc. Economics & Business Aministration
+                                        <span class="text-muted">  </span> </h6>
+                                    <large class="text-muted">2011 – 2015</large>
+                                    <p class="pt-15 mb-0">Focus: Finance & Accounting</p>
+                                    <p class="pt-15 mb-0">Goethe University Frankfurt, Frankfurt am Main, Germany</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="" style="float:left;">
+
+                        <div class="timeline">
+                            <!--item 0-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0"> Kassel University
+                                        <span class="text-muted"> - </span> Germany </h6>
+                                    <large class="text-muted">2018 -Current</large>
+                                    <p class="pt-15 mb-0">Research Employee/Team's Programmer and Technical Advisor
+                                    </p>
+                                </div>
+                            </div>
+                            <!--item 1-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0"> Kassel University Master's Program in Economic Behaviors and Governance
+                                        <span class="text-muted"> - </span> Germany </h6>
+                                    <large class="text-muted">2019 - 2023</large>
+                                    <p class="pt-15 mb-0">Program Manager
+                                    </p>
+                                </div>
+                            </div>
+                            <!--item 2-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0"> Kassel University
+                                        <span class="text-muted"> - </span> Germany </h6>
+                                    <large class="text-muted "> 2016 - 2018 </large>
+                                    <p class="pt-15 mb-0"> Laboratory Administrator </p>
+                                </div>
+                            </div>
+
+                            <!--item 3-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0"> Styrolution GmbH
+                                        <span class="text-muted"> - </span> Germany </h6>
+                                    <large class="text-muted">2014 -2015 </large>
+                                    <p class=" pt-15 mb-0">Team Assistant Regulatory Affairs EMEA & Healthcare</p>
+                                </div>
+                            </div>
+
+                            <!--item 3-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0"> Mercedes-Benz
+                                        <span class="text-muted"> - </span> Vietnam </h6>
+                                    <large class="text-muted"> 2014 </large>
+                                    <p class=" pt-15 mb-0"> CAO Assistant Internship </p>
+                                </div>
+                            </div>
+
+                            <!--item 3-->
+                            <div class="item">
+                                <div class="content">
+                                    <h6 class="mb-0">Goethe University Frankfurt
+                                        <span class="text-muted"> - </span> Germany </h6>
+                                    <large class="text-muted">2012 – 2013 </large>
+                                    <p class=" pt-15 mb-0">Research assistant</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <div class="col-lg-6 position-relative">
+                    </div>
+            </div>
